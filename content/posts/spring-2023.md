@@ -1,6 +1,6 @@
 ---
-title: "Spring 2022"
+title: "Spring 2023"
 date: 2023-02-17T15:47:17-05:00
-draft: true
+draft: false
 ---
 
