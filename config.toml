@@ -1,0 +1,5 @@
+baseURL = 'https://vida-nyu.github.io/dataset-search-and-discovery-seminar/'
+languageCode = 'en-us'
+title = 'VIDA Dataset Search and Discovery Seminar Series'
+theme = "PaperMod"
+
