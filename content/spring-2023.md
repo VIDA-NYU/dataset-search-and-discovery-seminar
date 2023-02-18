@@ -15,7 +15,7 @@ The VIDA Dataset Search and Discovery seminar covers recent research in the data
 |2/15 11am |Aécio Santos, _New York University_ | Sketching Methods for Efficient Correlated Dataset Search \[[Details](#talk-by-aécio-santos)\] | 370 Jay Street, room 1201 |
 |3/01 11am |Natasha Noy, _Google Research_ | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#talk-by-natasha-noy)\] |
 |3/17 11am |Raul Castro Fernandez, _University of Chicago_| TBD \[[Details](#talk-by-raul-castro-fernandez)\] |
-|3/24 11am |Fatemeh Nargesian, _University of Rochester| TBD \[[Details](#talk-by-fatemeh-nargesian)\] |
+|3/24 11am |Fatemeh Nargesian, _University of Rochester_| TBD \[[Details](#talk-by-fatemeh-nargesian)\] |
 
 
 # Talk Details
