@@ -12,9 +12,10 @@ The VIDA Dataset Search and Discovery seminar covers recent research in the data
 
 |Date|Speaker|Talk|Location|
 |---|----- | ------- |---|
-|2/15|Aécio Santos, _New York University_ | Sketching Methods for Efficient Correlated Dataset Search \[[Details](#talk-by-aécio-santos)\] | 370 Jay Street, room 1201 |
-|3/1|Natash Noy, _Google Research_ | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#talk-by-natasha-noy)\] |
-|3/21|Raul Castro Fernandez, _University of Chicago_| TBD \[[Details](#talk-by-raul-castro-fernandez)\] |
+|2/15 11am |Aécio Santos, _New York University_ | Sketching Methods for Efficient Correlated Dataset Search \[[Details](#talk-by-aécio-santos)\] | 370 Jay Street, room 1201 |
+|3/01 11am |Natasha Noy, _Google Research_ | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#talk-by-natasha-noy)\] |
+|3/17 11am |Raul Castro Fernandez, _University of Chicago_| TBD \[[Details](#talk-by-raul-castro-fernandez)\] |
+|3/24 11am |Fatemeh Nargesian, _University of Rochester| TBD \[[Details](#talk-by-fatemeh-nargesian)\] |
 
 
 # Talk Details
@@ -40,6 +41,17 @@ There are thousands of data repositories on the Web, providing access to tens of
 Natasha Noy is a scientist at Google Research where she works on making structured data accessible and useful. She leads the team building Dataset Search, a search engine for all the datasets on the Web. Prior to joining Google, she worked at Stanford Center for Biomedical Informatics Research where she made major contributions in the areas of ontology development and alignment, and collaborative ontology engineering. Dr. Noy is a Fellow of the Association for the Advancement of Artificial Intelligence (AAAI). She has served as the President of the Semantic Web Science Association from 2011 to 2017.
 
 ## Talk by Raul Castro Fernandez
+
+### Abstract
+
+TBD.
+
+### Bio
+
+TBD. 
+
+
+## Talk by Fatemeh Nargesian
 
 ### Abstract
 
