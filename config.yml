@@ -1,0 +1,20 @@
+baseURL: 'https://vida-nyu.github.io/dataset-search-and-discovery-seminar/'
+languageCode: 'en-us'
+title: 'Dataset Search and Discovery Seminar'
+
+theme: "PaperMod"
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /
+      weight: 10
+    - identifier: spring2023
+      name: spring 2023
+      url: /spring-2023
+      weight: 20
+    - identifier: vida
+      name: VIDA @ NYU Tandon
+      url: https://vida.engineering.nyu.edu/
+      weight: 30
