@@ -16,11 +16,13 @@ You can import the schedule to your own calendar using the following links:
 
 | Date | Speaker | Talk | Location |
 | ---- |-------- | ---- | -------- |
-| 2/15 11am |Aécio Santos (_New York University_) | Sketching Methods for Efficient Correlated Dataset Search \[[Details](#aécio-santos-new-york-university)\] | (internal) |
-| 3/01 11am |Natasha Noy (_Google Research_) | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#natasha-noy-google-research)\] | 370 Jay Street, Room 1201 |
-| 3/17 11am |Raul Castro Fernandez (_University of Chicago_) | System foundations of data markets and their connection to data discovery \[[Details](#raul-castro-fernandez-university-of-chicago)\] | 370 Jay Street, Room 1113 |
-| 3/24 11am |Fatemeh Nargesian (_University of Rochester_) | Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering \[[Details](#fatemeh-nargesian-university-of-rochester)\] | TBD |
-| 4/7 11am |Laura Koesten (_University of Vienna_) | TBD \[[Details](#laura-koesten-university-of-vienna)\] | TBD |
+| 2/15 11:00am |Aécio Santos (_New York University_) | Sketching Methods for Efficient Correlated Dataset Search \[[Details](#aécio-santos-new-york-university)\] | (internal) |
+| 3/01 11:00am |Natasha Noy (_Google Research_) | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#natasha-noy-google-research)\] | 370 Jay Street, Room 1201 |
+| 3/17 11:00am |Raul Castro Fernandez (_University of Chicago_) | System foundations of data markets and their connection to data discovery \[[Details](#raul-castro-fernandez-university-of-chicago)\] | 370 Jay Street, Room 1113 |
+| 3/24 11:00am |Fatemeh Nargesian (_University of Rochester_) | Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering \[[Details](#fatemeh-nargesian-university-of-rochester)\] | TBD |
+| 4/7 11:00am |Laura Koesten (_University of Vienna_) | TBD \[[Details](#laura-koesten-university-of-vienna)\] | TBD |
+| 4/14 11:30am |Ziawasch Abedjan (_Leibniz Universität Hannover, L3S Research Center_) | TBD \[[Details](#ziawasch-abedjan-leibniz-universität-hannover-l3s-research-center)\] | TBD |
+
 
 
 ## Upcoming Talks
@@ -52,7 +54,27 @@ You can import the schedule to your own calendar using the following links:
 
 ### Laura Koesten (University of Vienna)
 
-TDB.
+**Time:** April 7th, 2023. 11am.
+
+**Location:**  TBD.
+
+**Title:**  TBD.
+
+**Abstract:** TBD.
+
+**Bio:** TDB.
+
+### Ziawasch Abedjan (Leibniz Universität Hannover, L3S Research Center)
+
+**Time:** April 14th, 2023. 11:30am.
+
+**Location:**  TBD.
+
+**Title:**  TBD.
+
+**Abstract:** TBD.
+
+**Bio:** TDB.
 
 ## Past Talks
 
