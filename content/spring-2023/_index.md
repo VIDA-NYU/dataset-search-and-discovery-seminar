@@ -18,7 +18,7 @@ You can import the schedule to your own calendar using the following links:
 | ---- |-------- | ---- | -------- |
 | 2/15 11:00am |Aécio Santos (_New York University_) | Sketching Methods for Efficient Correlated Dataset Search \[[Details](#aécio-santos-new-york-university)\] | (internal) |
 | 3/01 11:00am |Natasha Noy (_Google Research_) | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#natasha-noy-google-research)\] | 370 Jay Street, Room 1201 |
-| 3/17 11:00am |Raul Castro Fernandez (_University of Chicago_) | System foundations of data markets and their connection to data discovery \[[Details](#raul-castro-fernandez-university-of-chicago)\] | 370 Jay Street, Room 1113 |
+| 3/17 11:00am |Raul Castro Fernandez (_University of Chicago_) | System foundations of data markets and their connection to data discovery \[[Details](#raul-castro-fernandez-university-of-chicago)\] | 370 Jay Street, Room 1114 |
 | 3/24 11:00am |Fatemeh Nargesian (_University of Rochester_) | Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering \[[Details](#fatemeh-nargesian-university-of-rochester)\] | TBD |
 | 4/7 11:00am |Laura Koesten (_University of Vienna_) | TBD \[[Details](#laura-koesten-university-of-vienna)\] | TBD |
 | 4/14 11:30am |Ziawasch Abedjan (_Leibniz Universität Hannover, L3S Research Center_) | Data Discovery with Advanced Index Structures \[[Details](#ziawasch-abedjan-leibniz-universität-hannover-l3s-research-center)\] | TBD |
@@ -26,19 +26,6 @@ You can import the schedule to your own calendar using the following links:
 
 
 ## Upcoming Talks
-
-### Raul Castro Fernandez (University of Chicago)
-
-**Time:** March 17th, 2023. 11am.
-
-**Location:** 370 Jay Street, Room 1113
-
-**Title:** System foundations of data markets and their connection to data discovery
-
-**Abstract:** A data market is an environment where agents exchange data. From this "lens", many familiar scenarios can be considered data markets. When individuals give their data to online services in exchange for their services (think Google or Meta), they participate in a data market. Online marketplaces where companies trade data are a data market. And when employees of an organization exchange data with each other, they are participating in a data market. In this talk, I will first discuss the benefits of applying this "data market lens" to data environments. I will then present the work our group is doing in advancing this agenda, which roughly differentiates between a *data market design* and *data market platform implementation*. I will then concentrate on a novel platform we are building to support the implementation of data markets: a *data escrow*, a trustworthy third party that supports delegated and auditable computation, two ingredients necessary to implement data markets. Before concluding, I will present my view on how data discovery and data markets will lead to interesting new scenarios and applications.
-
-**Bio:** I am interested in understanding the economics and value of data, including the potential of data markets to unlock that value. Our group builds systems to share, discover, prepare, integrate, and process data. We use techniques from data management, statistics, and machine learning. I am an assistant professor in the Computer Science department at the University of Chicago. Before UChicago, I did a postdoc at MIT with Sam Madden and Mike Stonebraker. And before that, I completed my PhD at Imperial College London with Peter Pietzuch.
-
 
 ### Fatemeh Nargesian (University of Rochester)
 
@@ -80,6 +67,19 @@ The goal is to enrich a given table with additional columns obtained from relate
 
 ## Past Talks
 
+### Raul Castro Fernandez (University of Chicago)
+
+**Time:** March 17th, 2023. 11am.
+
+**Location:** 370 Jay Street, Room 1114
+
+**Title:** System foundations of data markets and their connection to data discovery
+
+**Abstract:** A data market is an environment where agents exchange data. From this "lens", many familiar scenarios can be considered data markets. When individuals give their data to online services in exchange for their services (think Google or Meta), they participate in a data market. Online marketplaces where companies trade data are a data market. And when employees of an organization exchange data with each other, they are participating in a data market. In this talk, I will first discuss the benefits of applying this "data market lens" to data environments. I will then present the work our group is doing in advancing this agenda, which roughly differentiates between a *data market design* and *data market platform implementation*. I will then concentrate on a novel platform we are building to support the implementation of data markets: a *data escrow*, a trustworthy third party that supports delegated and auditable computation, two ingredients necessary to implement data markets. Before concluding, I will present my view on how data discovery and data markets will lead to interesting new scenarios and applications.
+
+**Bio:** I am interested in understanding the economics and value of data, including the potential of data markets to unlock that value. Our group builds systems to share, discover, prepare, integrate, and process data. We use techniques from data management, statistics, and machine learning. I am an assistant professor in the Computer Science department at the University of Chicago. Before UChicago, I did a postdoc at MIT with Sam Madden and Mike Stonebraker. And before that, I completed my PhD at Imperial College London with Peter Pietzuch.
+
+
 ### Natasha Noy (Google Research)
 
 **Time:** March 1st, 2023. 11am.
@@ -91,6 +91,7 @@ The goal is to enrich a given table with additional columns obtained from relate
 **Abstract:** There are thousands of data repositories on the Web, providing access to tens of millions of datasets. National and regional governments, scientific publishers and consortia, commercial data providers, and others publish data for fields ranging from social science to life science to high-energy physics to climate science and more. Access to this data is critical to facilitating reproducibility of research results, enabling scientists to build on others’ work, and providing data journalists easier access to information and its provenance. The talk will discuss Dataset Search by Google, which provides search capabilities over potentially all dataset repositories on the Web. I will talk about the open ecosystem for describing datasets that we hope to encourage. I will discuss what we have learned by analyzing the corpus of more than 45 million dataset descriptions. Finally, I will discuss research challenges in building a vibrant, heterogeneous, and open ecosystem where data becomes a first-class citizen.
 
 **Bio:** Natasha Noy is a scientist at Google Research where she works on making structured data accessible and useful. She leads the team building Dataset Search, a search engine for all the datasets on the Web. Prior to joining Google, she worked at Stanford Center for Biomedical Informatics Research where she made major contributions in the areas of ontology development and alignment, and collaborative ontology engineering. Dr. Noy is a Fellow of the Association for the Advancement of Artificial Intelligence (AAAI). She has served as the President of the Semantic Web Science Association from 2011 to 2017.
+
 
 ### Aécio Santos (New York University)
 **Time:** February, 15th, 2023. 11am.
