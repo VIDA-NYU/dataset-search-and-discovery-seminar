@@ -22,6 +22,8 @@ You can import the schedule to your own calendar using the following links:
 | 3/24 11:00am |Fatemeh Nargesian (_University of Rochester_) | Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering \[[Details](#fatemeh-nargesian-university-of-rochester)\] | TBD |
 | 4/7 11:00am |Laura Koesten (_University of Vienna_) | TBD \[[Details](#laura-koesten-university-of-vienna)\] | TBD |
 | 4/14 11:30am |Ziawasch Abedjan (_Leibniz Universität Hannover, L3S Research Center_) | Data Discovery with Advanced Index Structures \[[Details](#ziawasch-abedjan-leibniz-universität-hannover-l3s-research-center)\] | TBD |
+| 4/28 1:30pm |Asterios Katsifodimos (_Delft University of Technology_) | TBD \[[Details](#asterios-katsifodimos-delft-university-of-technology)\] | TBD |
+
 
 
 
@@ -64,6 +66,18 @@ The goal is to enrich a given table with additional columns obtained from relate
 
 **Bio:** Ziawasch Abedjan is Professor for “Databases and Information Systems” at Leibniz Universität Hannover and Visiting Academic at Amazon Search. He is Junior Fellow of the German Computer Science Society, Fellow of the Berlin institute on Foundation of Learning and Data and member of the L3S Research Center. He has published more than 60 peer-reviewed papers in the area of data integration and data analytics. Ziawasch Abedjan received his PhD at the Hasso-Plattner-Institute in Potsdam and received the best dissertation award of the University of Potsdam in 2014. After his PhD, he was a postdoctoral associate at MIT and Junior Professor at the TU Berlin. He is further recipient of the SIGMOD 2019 most reproducible paper award, SIGMOD 2015 best demonstration award, and CIKM 2014 best student paper award. His research is funded by the German Research Foundation (DFG) and the German Ministry of Research and Education (BMBF).
 
+
+### Asterios Katsifodimos (Delft University of Technology)
+
+**Time:** April 28th, 2023. 1:30pm.
+
+**Location:**  TBD.
+
+**Title:**  TBD.
+
+**Abstract:** TBD.
+
+**Bio:** TDB.
 
 ## Past Talks
 
