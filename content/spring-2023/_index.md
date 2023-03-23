@@ -17,9 +17,9 @@ You can import the schedule to your own calendar using the following links:
 | Date | Speaker | Talk | Location |
 | ---- |-------- | ---- | -------- |
 | 2/15 11:00am |Aécio Santos (_New York University_) | Sketching Methods for Efficient Correlated Dataset Search \[[Details](#aécio-santos-new-york-university)\] | (internal) |
-| 3/01 11:00am |Natasha Noy (_Google Research_) | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#natasha-noy-google-research)\] | 370 Jay Street, Room 1201 |
-| 3/17 11:00am |Raul Castro Fernandez (_University of Chicago_) | System foundations of data markets and their connection to data discovery \[[Details](#raul-castro-fernandez-university-of-chicago)\] | 370 Jay Street, Room 1114 |
-| 3/24 12:15pm |Fatemeh Nargesian (_University of Rochester_) | Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering \[[Details](#fatemeh-nargesian-university-of-rochester)\] | TBD |
+| 3/01 11:00am |Natasha Noy (_Google Research_) | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#natasha-noy-google-research)\] | 370 Jay St, Room 1201 |
+| 3/17 11:00am |Raul Castro Fernandez (_University of Chicago_) | System foundations of data markets and their connection to data discovery \[[Details](#raul-castro-fernandez-university-of-chicago)\] | 370 Jay St, Room 1114 |
+| 3/24 12:15pm |Fatemeh Nargesian (_University of Rochester_) | Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering \[[Details](#fatemeh-nargesian-university-of-rochester)\] | 370 Jay St, Room 1113 |
 | 4/7 11:00am |Laura Koesten (_University of Vienna_) | TBD \[[Details](#laura-koesten-university-of-vienna)\] | TBD |
 | 4/14 11:30am |Ziawasch Abedjan (_Leibniz Universität Hannover, L3S Research Center_) | Data Discovery with Advanced Index Structures \[[Details](#ziawasch-abedjan-leibniz-universität-hannover-l3s-research-center)\] | TBD |
 | 4/28 1:30pm |Asterios Katsifodimos (_Delft University of Technology_) | TBD \[[Details](#asterios-katsifodimos-delft-university-of-technology)\] | TBD |
@@ -33,7 +33,7 @@ You can import the schedule to your own calendar using the following links:
 
 **Time:** March 24th, 2023. 11am.
 
-**Location:** TBD.
+**Location:** 370 Jay Street, Room 1113.
 
 **Title:** Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering
 
