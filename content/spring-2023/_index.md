@@ -20,7 +20,7 @@ You can import the schedule to your own calendar using the following links:
 | 3/01 11:00am |Natasha Noy (_Google Research_) | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#natasha-noy-google-research)\] | 370 Jay St, Room 1201 |
 | 3/17 11:00am |Raul Castro Fernandez (_University of Chicago_) | System foundations of data markets and their connection to data discovery \[[Details](#raul-castro-fernandez-university-of-chicago)\] | 370 Jay St, Room 1114 |
 | 3/24 12:15pm |Fatemeh Nargesian (_University of Rochester_) | Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering \[[Details](#fatemeh-nargesian-university-of-rochester)\] | 370 Jay St, Room 1113 |
-| 4/7 11:00am |Laura Koesten (_University of Vienna_) | TBD \[[Details](#laura-koesten-university-of-vienna)\] | TBD |
+| 4/7 11:00am |Laura Koesten (_University of Vienna_) | Data Discovery and Reuse: A Human-Centred View \[[Details](#laura-koesten-university-of-vienna)\] | TBD |
 | 4/14 11:30am |Ziawasch Abedjan (_Leibniz Universität Hannover, L3S Research Center_) | Data Discovery with Advanced Index Structures \[[Details](#ziawasch-abedjan-leibniz-universität-hannover-l3s-research-center)\] | TBD |
 | 4/28 1:30pm |Asterios Katsifodimos (_Delft University of Technology_) | TBD \[[Details](#asterios-katsifodimos-delft-university-of-technology)\] | TBD |
 
@@ -47,11 +47,12 @@ You can import the schedule to your own calendar using the following links:
 
 **Location:**  TBD.
 
-**Title:**  TBD.
+**Title:** Data Discovery and Reuse: A Human-Centred View
 
-**Abstract:** TBD.
+**Abstract:** The web provides access to millions of datasets. These data can have additional impact when used beyond the context for which they were originally created. This is particularly relevant given the ever-increasing amounts of data being produced and made available and the creation of data-specific discovery tools and systems. Still, finding as well as reusing data remains challenging. While information-seeking in various settings has been well-researched within computer and information science, less is known about human-centered data discovery, or, in other words, how people discover, understand, and interact with data that others create. This talk will give an overview of research on how people evaluate and make sense of data they find and how data search systems and data repositories can be better designed to meet people’s needs.
 
-**Bio:** TDB.
+**Bio:** Laura Koesten is a postdoctoral researcher at the University of Vienna in the Research Group for Visualization and Data Analysis and external researcher at King’s College London, UK. In her work, she is looking at ways to improve human-data interaction by studying sensemaking with data and visualisations, data discovery and reuse, as well as ethical and collaborative aspects of data-centric work. That means she researches how data is used, understood and presented by different user groups. She is PI of the Talking Charts project (https://talking-charts.vda.univie.ac.at/) and obtained her Ph.D. at the Open Data Institute + the University of Southampton, UK.
+
 
 ### Ziawasch Abedjan (Leibniz Universität Hannover, L3S Research Center)
 
