@@ -20,7 +20,7 @@ You can import the schedule to your own calendar using the following links:
 | 3/01 11:00am |Natasha Noy (_Google Research_) | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#natasha-noy-google-research)\] | 370 Jay St, Room 1201 |
 | 3/17 11:00am |Raul Castro Fernandez (_University of Chicago_) | System foundations of data markets and their connection to data discovery \[[Details](#raul-castro-fernandez-university-of-chicago)\] | 370 Jay St, Room 1114 |
 | 3/24 12:15pm |Fatemeh Nargesian (_University of Rochester_) | Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering \[[Details](#fatemeh-nargesian-university-of-rochester)\] | 370 Jay St, Room 1113 |
-| 4/7 11:00am |Laura Koesten (_University of Vienna_) | Data Discovery and Reuse: A Human-Centred View \[[Details](#laura-koesten-university-of-vienna)\] | TBD |
+| 4/7 11:00am |Laura Koesten (_University of Vienna_) | Data Discovery and Reuse: A Human-Centred View \[[Details](#laura-koesten-university-of-vienna)\] | Online via [Zoom](https://nyu.zoom.us/j/97184908181?pwd=R3NRWmI4YlZBQUJ4ZVZxV0wzbXJOQT09) |
 | 4/14 11:30am |Ziawasch Abedjan (_Leibniz Universität Hannover, L3S Research Center_) | Data Discovery with Advanced Index Structures \[[Details](#ziawasch-abedjan-leibniz-universität-hannover-l3s-research-center)\] | TBD |
 | 4/28 1:30pm |Asterios Katsifodimos (_Delft University of Technology_) | TBD \[[Details](#asterios-katsifodimos-delft-university-of-technology)\] | TBD |
 
@@ -29,23 +29,11 @@ You can import the schedule to your own calendar using the following links:
 
 ## Upcoming Talks
 
-### Fatemeh Nargesian (University of Rochester)
-
-**Time:** March 24th, 2023. 11am.
-
-**Location:** 370 Jay Street, Room 1113.
-
-**Title:** Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering
-
-**Abstract:** The number and variety of structured data sources available on open data portals, the web, and data markets have been increasing rapidly, making secondary data analysis much more attractive. In fact, data scientists on many occasions may be spoiled for choice. In this talk, first, I will describe how we can push down syntactic and semantic join operations into dataset search to discover and infer queries for integrating data. Next, we will broaden the scope to query answering and see how to obtain an IID sample over the union of join queries, to perform approximate query answering. Finally, I will conclude by discussing the future directions in the distribution-aware aspects of integrating secondary data.
-
-**Bio:** Fatemeh Nargesian is an assistant professor of computer science at the University of Rochester. She obtained her PhD at the University of Toronto. Her research interests are in data management for AI-based data analytics and scientific time-series management. Her work has appeared at top-tier venues including VLDB, SIGMOD, and ICDE, and has won the best demo award of VLDB 2017.
-
 ### Laura Koesten (University of Vienna)
 
 **Time:** April 7th, 2023. 11am.
 
-**Location:**  TBD.
+**Location:** Online via Zoom: https://nyu.zoom.us/j/97184908181?pwd=R3NRWmI4YlZBQUJ4ZVZxV0wzbXJOQT09
 
 **Title:** Data Discovery and Reuse: A Human-Centred View
 
@@ -81,6 +69,18 @@ The goal is to enrich a given table with additional columns obtained from relate
 **Bio:** TDB.
 
 ## Past Talks
+
+### Fatemeh Nargesian (University of Rochester)
+
+**Time:** March 24th, 2023. 11am.
+
+**Location:** 370 Jay Street, Room 1113.
+
+**Title:** Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering
+
+**Abstract:** The number and variety of structured data sources available on open data portals, the web, and data markets have been increasing rapidly, making secondary data analysis much more attractive. In fact, data scientists on many occasions may be spoiled for choice. In this talk, first, I will describe how we can push down syntactic and semantic join operations into dataset search to discover and infer queries for integrating data. Next, we will broaden the scope to query answering and see how to obtain an IID sample over the union of join queries, to perform approximate query answering. Finally, I will conclude by discussing the future directions in the distribution-aware aspects of integrating secondary data.
+
+**Bio:** Fatemeh Nargesian is an assistant professor of computer science at the University of Rochester. She obtained her PhD at the University of Toronto. Her research interests are in data management for AI-based data analytics and scientific time-series management. Her work has appeared at top-tier venues including VLDB, SIGMOD, and ICDE, and has won the best demo award of VLDB 2017.
 
 ### Raul Castro Fernandez (University of Chicago)
 
