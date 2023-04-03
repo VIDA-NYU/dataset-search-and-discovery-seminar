@@ -26,7 +26,6 @@ You can import the schedule to your own calendar using the following links:
 
 
 
-
 ## Upcoming Talks
 
 ### Laura Koesten (University of Vienna)
