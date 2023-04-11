@@ -20,8 +20,8 @@ You can import the schedule to your own calendar using the following links:
 | 3/01 11:00am |Natasha Noy (_Google Research_) | Google Dataset Search: Building an open ecosystem for dataset discovery \[[Details](#natasha-noy-google-research)\] | 370 Jay St, Room 1201 |
 | 3/17 11:00am |Raul Castro Fernandez (_University of Chicago_) | System foundations of data markets and their connection to data discovery \[[Details](#raul-castro-fernandez-university-of-chicago)\] | 370 Jay St, Room 1114 |
 | 3/24 12:15pm |Fatemeh Nargesian (_University of Rochester_) | Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering \[[Details](#fatemeh-nargesian-university-of-rochester)\] | 370 Jay St, Room 1113 |
-| 4/7 11:00am |Laura Koesten (_University of Vienna_) | Data Discovery and Reuse: A Human-Centred View \[[Details](#laura-koesten-university-of-vienna)\] | Online via [Zoom](https://nyu.zoom.us/j/97184908181?pwd=R3NRWmI4YlZBQUJ4ZVZxV0wzbXJOQT09) |
-| 4/14 11:30am |Ziawasch Abedjan (_Leibniz Universität Hannover, L3S Research Center_) | Data Discovery with Advanced Index Structures \[[Details](#ziawasch-abedjan-leibniz-universität-hannover-l3s-research-center)\] | TBD |
+| 4/7 11:00am |Laura Koesten (_University of Vienna_) | Data Discovery and Reuse: A Human-Centred View \[[Details](#laura-koesten-university-of-vienna)\] | Online via [Zoom](https://nyu.zoom.us/j/97184908181?pwd=R3NRWmI4YlZBQUJ4ZVZxV0wzbXJOQT09); NYU: 370 Jay St, 1113 |
+| 4/14 11:30am |Ziawasch Abedjan (_Leibniz Universität Hannover, L3S Research Center_) | Data Discovery with Advanced Index Structures \[[Details](#ziawasch-abedjan-leibniz-universität-hannover-l3s-research-center)\] | Online via [Zoom](https://nyu.zoom.us/j/97420294195); NYU: 370 Jay St, 1113 |
 | 4/28 1:30pm |Asterios Katsifodimos (_Delft University of Technology_) | TBD \[[Details](#asterios-katsifodimos-delft-university-of-technology)\] | TBD |
 
 
@@ -45,7 +45,7 @@ You can import the schedule to your own calendar using the following links:
 
 **Time:** April 14th, 2023. 11:30am.
 
-**Location:**  TBD.
+**Location:**  Online via Zoom: https://nyu.zoom.us/j/97420294195 (We will also convene at NYU: 370 Jay St, Room 1113).
 
 **Title:** Data Discovery with Advanced Index Structures
 
