@@ -28,19 +28,6 @@ You can import the schedule to your own calendar using the following links:
 
 ## Upcoming Talks
 
-### Laura Koesten (University of Vienna)
-
-**Time:** April 7th, 2023. 11am.
-
-**Location:** Online via Zoom: https://nyu.zoom.us/j/97184908181?pwd=R3NRWmI4YlZBQUJ4ZVZxV0wzbXJOQT09
-
-**Title:** Data Discovery and Reuse: A Human-Centred View
-
-**Abstract:** The web provides access to millions of datasets. These data can have additional impact when used beyond the context for which they were originally created. This is particularly relevant given the ever-increasing amounts of data being produced and made available and the creation of data-specific discovery tools and systems. Still, finding as well as reusing data remains challenging. While information-seeking in various settings has been well-researched within computer and information science, less is known about human-centered data discovery, or, in other words, how people discover, understand, and interact with data that others create. This talk will give an overview of research on how people evaluate and make sense of data they find and how data search systems and data repositories can be better designed to meet people’s needs.
-
-**Bio:** Laura Koesten is a postdoctoral researcher at the University of Vienna in the Research Group for Visualization and Data Analysis and external researcher at King’s College London, UK. In her work, she is looking at ways to improve human-data interaction by studying sensemaking with data and visualisations, data discovery and reuse, as well as ethical and collaborative aspects of data-centric work. That means she researches how data is used, understood and presented by different user groups. She is PI of the Talking Charts project (https://talking-charts.vda.univie.ac.at/) and obtained her Ph.D. at the Open Data Institute + the University of Southampton, UK.
-
-
 ### Ziawasch Abedjan (Leibniz Universität Hannover, L3S Research Center)
 
 **Time:** April 14th, 2023. 11:30am.
@@ -67,7 +54,20 @@ The goal is to enrich a given table with additional columns obtained from relate
 
 **Bio:** TDB.
 
+
 ## Past Talks
+
+### Laura Koesten (University of Vienna)
+
+**Time:** April 7th, 2023. 11am.
+
+**Location:** Online via Zoom: https://nyu.zoom.us/j/97184908181?pwd=R3NRWmI4YlZBQUJ4ZVZxV0wzbXJOQT09
+
+**Title:** Data Discovery and Reuse: A Human-Centred View
+
+**Abstract:** The web provides access to millions of datasets. These data can have additional impact when used beyond the context for which they were originally created. This is particularly relevant given the ever-increasing amounts of data being produced and made available and the creation of data-specific discovery tools and systems. Still, finding as well as reusing data remains challenging. While information-seeking in various settings has been well-researched within computer and information science, less is known about human-centered data discovery, or, in other words, how people discover, understand, and interact with data that others create. This talk will give an overview of research on how people evaluate and make sense of data they find and how data search systems and data repositories can be better designed to meet people’s needs.
+
+**Bio:** Laura Koesten is a postdoctoral researcher at the University of Vienna in the Research Group for Visualization and Data Analysis and external researcher at King’s College London, UK. In her work, she is looking at ways to improve human-data interaction by studying sensemaking with data and visualisations, data discovery and reuse, as well as ethical and collaborative aspects of data-centric work. That means she researches how data is used, understood and presented by different user groups. She is PI of the Talking Charts project (https://talking-charts.vda.univie.ac.at/) and obtained her Ph.D. at the Open Data Institute + the University of Southampton, UK.
 
 ### Fatemeh Nargesian (University of Rochester)
 
