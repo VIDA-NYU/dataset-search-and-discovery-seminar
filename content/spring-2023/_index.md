@@ -22,11 +22,33 @@ You can import the schedule to your own calendar using the following links:
 | 3/24 12:15pm |Fatemeh Nargesian (_University of Rochester_) | Lakes of Data: From Semantic and Syntactic Dataset Discovery to Approximate Query Answering \[[Details](#fatemeh-nargesian-university-of-rochester)\] | 370 Jay St, Room 1113 |
 | 4/7 11:00am |Laura Koesten (_University of Vienna_) | Data Discovery and Reuse: A Human-Centred View \[[Details](#laura-koesten-university-of-vienna)\] | Online via [Zoom](https://nyu.zoom.us/j/97184908181?pwd=R3NRWmI4YlZBQUJ4ZVZxV0wzbXJOQT09); NYU: 370 Jay St, 1113 |
 | 4/14 11:30am |Ziawasch Abedjan (_Leibniz Universität Hannover, L3S Research Center_) | Data Discovery with Advanced Index Structures \[[Details](#ziawasch-abedjan-leibniz-universität-hannover-l3s-research-center)\] | Online via [Zoom](https://nyu.zoom.us/j/97420294195); NYU: 370 Jay St, 1113 |
-| 4/28 1:30pm |Asterios Katsifodimos (_Delft University of Technology_) | TBD \[[Details](#asterios-katsifodimos-delft-university-of-technology)\] | TBD |
-
+| 4/28 1:30pm |Asterios Katsifodimos & Christos Koutras (_Delft University of Technology_) | Matching for Dataset Discovery: Algorithms, Datasets and Benchmarks \[[Details](#asterios-katsifodimos--christos-koutras-delft-university-of-technology)\] | Online via [Zoom](https://nyu.zoom.us/j/99198491462); NYU: 370 Jay St, 1113 |
+ 
 
 
 ## Upcoming Talks
+
+
+### Asterios Katsifodimos & Christos Koutras (Delft University of Technology)
+
+**Time:** April 28th, 2023. 1:30pm.
+
+**Location:**  Online via Zoom: https://nyu.zoom.us/j/99198491462 (We will also convene at NYU: 370 Jay St, Room 1113).
+
+**Title:**  Matching for Dataset Discovery: Algorithms, Datasets and Benchmarks.
+
+**Abstract:** Data scientists today search large data lakes to discover and integrate datasets. In order to bring together disparate data sources, dataset discovery methods rely on some form of schema matching: the process of establishing correspondences between datasets. This process has been traditionally taken care with schema matching techniques. After 20 years of research in schema matching, we are still missing a benchmark for schema matching, as well as proper datasets, and proper evaluation metrics! In this talk I will first present an overview of matching techniques for dataset discovery, and then present Valentine: an extensible open-source experiment suite to execute and organize large-scale automated matching experiments on tabular data. Valentine now includes implementations of 7 seminal schema matching methods that we either implemented from scratch (due to absence of open source code) or imported from open repositories. Finally, Valentine offers a data fabrication toolbox for constructing testing datasets with ground truth. I will conclude my talk with insights from a large set of experiments we have been performing at TU Delft, focusing on the strengths and weaknesses of existing techniques, that can serve as a guide for employing schema matching in future dataset discovery methods.
+
+**Bios:** 
+
+_Asterios_:
+Asterios Katsifodimos is an Associate Professor at the Delft University of Technology, and a Visiting Academic at Amazon Web Services (AWS) - AI. Before that, Asterios worked at the SAP Innovation Center (Berlin), and at the Technical University (TU) of Berlin. Asterios obtained his PhD from INRIA Saclay & University Paris 11. Asterios' research work spans the areas of parallel (streaming-) data processing & Cloud computing, optimization of ML-systems, and data integration. His research on fault tolerance, aggregation methods and benchmarking has influenced the design of open-source stream processing engines, while his research group develops and maintains the dataset discovery system Valentine. Asterios has received the ACM SIGMOD Research Highlights Award in 2016, as well as the best paper award at EDBT 2019 and ACM DEBS 2021, as well as the best demo paper award at EDBT 2023. He is the instructor of the online MOOC “Taming Massive Data Streams” and is invited regularly to give talks at industry and research venues. Asterios serves as an associate editor or a program committee member in the data management conferences such as VLDB, ICDE, SIGMOD and EDBT. 
+
+_Christos Koutras_:
+Christos is a PhD Candidate at the Delft University of Technology, supervised by Asterios Katsifodimos. His research focuses on Data Integration, Dataset Discovery, and spatial data management. Christos leads the efforts around Valentine, a matching framework for dataset discovery. He holds a Master of Philosophy (MPhil) in Computer Science from HKUST, where he was supervised by Prof. Dimitris Papadias. Prior to that, he obtained his 5-year Diploma in Electrical and Computer Engineering from National Technical University of Athens.
+
+
+## Past Talks
 
 ### Ziawasch Abedjan (Leibniz Universität Hannover, L3S Research Center)
 
@@ -40,22 +62,6 @@ You can import the schedule to your own calendar using the following links:
 The goal is to enrich a given table with additional columns obtained from related tables that reside inside the data lake. Existing methods rely on the discovery of related tables that join on single attributes of a given table. However, many candidate tables that re discovered this way will only loosely be relevant for the given input dataset or might not contain additional interesting features. To further restrict the set of candidates complex filters based on multi-column matches and correlation calculation can be applied, which are time-consuming using state-of-the-art data structures and indexes. We have recently introduced two index structures that support multi-column join discovery and correlation calculation. In this talk, I will present these data structures and discuss the achieved performance on very large data lakes.
 
 **Bio:** Ziawasch Abedjan is Professor for “Databases and Information Systems” at Leibniz Universität Hannover and Visiting Academic at Amazon Search. He is Junior Fellow of the German Computer Science Society, Fellow of the Berlin institute on Foundation of Learning and Data and member of the L3S Research Center. He has published more than 60 peer-reviewed papers in the area of data integration and data analytics. Ziawasch Abedjan received his PhD at the Hasso-Plattner-Institute in Potsdam and received the best dissertation award of the University of Potsdam in 2014. After his PhD, he was a postdoctoral associate at MIT and Junior Professor at the TU Berlin. He is further recipient of the SIGMOD 2019 most reproducible paper award, SIGMOD 2015 best demonstration award, and CIKM 2014 best student paper award. His research is funded by the German Research Foundation (DFG) and the German Ministry of Research and Education (BMBF).
-
-
-### Asterios Katsifodimos (Delft University of Technology)
-
-**Time:** April 28th, 2023. 1:30pm.
-
-**Location:**  TBD.
-
-**Title:**  TBD.
-
-**Abstract:** TBD.
-
-**Bio:** TDB.
-
-
-## Past Talks
 
 ### Laura Koesten (University of Vienna)
 
