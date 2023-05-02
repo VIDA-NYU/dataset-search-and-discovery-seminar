@@ -25,8 +25,7 @@ You can import the schedule to your own calendar using the following links:
 | 4/28 1:30pm |Asterios Katsifodimos & Christos Koutras (_Delft University of Technology_) | Matching for Dataset Discovery: Algorithms, Datasets and Benchmarks \[[Details](#asterios-katsifodimos--christos-koutras-delft-university-of-technology)\] | Online via [Zoom](https://nyu.zoom.us/j/99198491462); NYU: 370 Jay St, 1113 |
  
 
-
-## Upcoming Talks
+## Past Talks
 
 
 ### Asterios Katsifodimos & Christos Koutras (Delft University of Technology)
@@ -46,9 +45,6 @@ Asterios Katsifodimos is an Associate Professor at the Delft University of Techn
 
 _Christos Koutras_:
 Christos is a PhD Candidate at the Delft University of Technology, supervised by Asterios Katsifodimos. His research focuses on Data Integration, Dataset Discovery, and spatial data management. Christos leads the efforts around Valentine, a matching framework for dataset discovery. He holds a Master of Philosophy (MPhil) in Computer Science from HKUST, where he was supervised by Prof. Dimitris Papadias. Prior to that, he obtained his 5-year Diploma in Electrical and Computer Engineering from National Technical University of Athens.
-
-
-## Past Talks
 
 ### Ziawasch Abedjan (Leibniz Universität Hannover, L3S Research Center)
 
